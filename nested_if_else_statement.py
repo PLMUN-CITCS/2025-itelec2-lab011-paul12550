@@ -9,8 +9,3 @@ if age >= 18:
         print("Membership required for access.")
 else:
     print("Access denied. Must be at least 18 years old.")
-try:
-    #your code here
-
-except ValueError:
-    print("Invalid age input. Please enter an integer.")
